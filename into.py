@@ -1,5 +1,5 @@
 # create variable name o hold hello world
-message = """hEllo world to Nkiru's world of world  """
+# message = """hEllo world to Nkiru's world of world  """
 # print(len(message))
 # print(len(message))
 
@@ -9,4 +9,11 @@ message = """hEllo world to Nkiru's world of world  """
 
 # print(message.replace('world', 'kenya'))
 # or
-new_message = message.replace
+# new_message = message.replace('world', 'kenya')
+# print(new_message)
+greeting = 'hello'
+name = 'mike'
+# message = greeting + ', ' + '' + name + '. ' + "welcome" + '. '
+# message = f'{}, {}, Welcome'.format(greeting, name)
+
+print(help(str.lower))
