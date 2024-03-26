@@ -11,9 +11,19 @@
 # or
 # new_message = message.replace('world', 'kenya')
 # print(new_message)
-greeting = 'hello'
-name = 'mike'
+# greeting = 'hello'
+# name = 'mike'
 # message = greeting + ', ' + '' + name + '. ' + "welcome" + '. '
 # message = f'{}, {}, Welcome'.format(greeting, name)
 
-print(help(str.lower))
+# print(help(str.lower))
+# num = 3.14
+# print(type(num))
+# print (12 // 5 )
+# print(3 * (2 + 1))
+# num = 1
+# num *= 10
+# print(num)
+num_1 = 3
+num_2 = 2
+print (num_1 < num_2)
